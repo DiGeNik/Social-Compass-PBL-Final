@@ -1,0 +1,17 @@
+{
+  "name": "Социален компас: Робинзон Крузо",
+  "short_name": "Социален Компас",
+  "description": "Приложение за баланс между дигиталното и реалното, вдъхновено от Робинзон Крузо.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2913/2913520.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
